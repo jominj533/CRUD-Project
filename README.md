@@ -8,9 +8,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing a 
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Getting Started](#getting-started)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
+ 
 
 ## Features
 
