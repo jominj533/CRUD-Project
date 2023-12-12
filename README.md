@@ -6,6 +6,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing a 
 
 - [Features](#features)
 - [Usage](#usage)
+- [Live Demo](#live-demo)
 - [Dependencies](#dependencies)
 - [Getting Started](#getting-started)
  
@@ -34,6 +35,10 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing a 
 4. **Searching for Products:**
    - Enter keywords in the search bar to filter products dynamically.
 
+## Live Demo
+
+Check out the live demo [here](https://mohamedali09.github.io/CRUD-Project/).
+
 ## Dependencies
 
 - [Bootstrap](https://getbootstrap.com/): Used for styling the user interface.
@@ -43,4 +48,4 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing a 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/product-management-system.git
+   git clone https://github.com/MohamedAli09/CRUD-Project.git
